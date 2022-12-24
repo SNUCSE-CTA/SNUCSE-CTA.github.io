@@ -4,8 +4,6 @@ DEPLOY_BRANCH="gh-pages"
 
 USAGE_MSG="usage: deploy [-h|--help] [-u|--user] [-s|--src SRC_BRANCH] [-d|--deploy DEPLOY_BRANCH] [--verbose] [--no-push]"
 
-
-sass _sass/jekyll-sleek.scss:assets/css/jekyll-sleek.css
 while [[ $# > 0 ]]; do
     key="$1"
 
@@ -54,6 +52,12 @@ then
     echo "Aborting."
     [[ "$0" = "$BASH_SOURCE" ]] && exit 1 || return 1
 fi
+
+
+
+sass _sass/jekyll-sleek.scss:assets/css/jekyll-sleek.css
+git add assets/css/*
+git commit -m 'css-followup' 
 
 # Check if there are any uncommitted changes
 if ! git diff-index --quiet HEAD --; then

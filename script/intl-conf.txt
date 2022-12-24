@@ -1,0 +1,126 @@
+홍선기, 구건모, 김현준, 박근수
+부분 그래프 동형 문제를 위한 동적 매칭 순서들의 성능 비교
+KIISE Transactions on Computing Practices, 26.1:38-43. (January 2020)
+임지혁, 김선, 박근수
+De novo 시퀀스 어셈블리의 overlap 단계의 최근 연구 실험 분석
+정보과학회논문지, 45.3:200-210. (March 2018)
+한명지, 임지혁, 최준용, 김현준, 서정주, 유철, 김성렬, 박근수
+X-means 클러스터링을 이용한 악성 트래픽 탐지 방법
+Journal of KIISE, 41.9:617-624. (September 2014)
+이선호, 김진욱, 박근수, 백은옥, 박희진
+Selenocysteine을 포함한 폴리펩티드의 단동위질량을 결정하는 알고리즘의 실험적 분석
+정보과학회논문지: 컴퓨팅의 실제 및 레터, 19.5:235-241. (May 2013)
+서정주, 김진일, 김은상, 김영호, 정하웅, 김성렬, 박근수
+국내 웹 그래프의 링크 구조 분석
+정보과학회논문지: 컴퓨팅의 실제 및 레터, 19.1:7-14. (January 2013)
+노강호, 박근수, 조환규, 장소원
+음소의 1차원 배열을 이용한 한글 유사도 및 편집거리 알고리즘
+정보과학회논문지: 컴퓨팅의 실제 및 레터, 17.10:519-526. (2011)
+김진일, 서정주, 홍정대, 박근수
+익명성을 제공하는 공평한 그룹 복호화 기법
+정보과학회논문지: 시스템 및 이론, 37.6:348-353. (2010)
+김은상, 김진욱, 박근수
+다중바이트 문자집합 텍스트에서의 문자열 검색 알고리즘
+정보과학회논문지: 컴퓨팅의 실제 및 레터, 16.10:1015-1019. (2010)
+노강호, 김진욱, 김은상, 박근수, 조환규
+한글에 대한 편집 거리 문제
+정보과학회논문지: 시스템 및 이론, 37.2:103-109. (2010)
+김진일, 권유진, 김진욱, 김성렬, 박근수
+그래프 탐색 기법을 이용한 효율적인 웹 크롤링 방법들
+정보과학회논문지: 시스템 및 이론, 37.1:27-34. (2010)
+김진욱, 김은상, 안융기, 박근수
+DNA 서열을 위한 빠른 매칭 기법
+정보과학회논문지: 시스템 및 이론, 36.4:231-238. (2009)
+정태영, 이태형, 박근수
+실용적인 접미사 정렬 알고리즘의 개선
+정보과학회논문지: 시스템 및 이론, 36.2:68-72. (2009)
+윤민, 나형준, 이문규, 박근수
+안전한 센서 네트워크를 위한 스트림 암호의 성능 비교 분석
+정보보호학회논문지, 18.5:3-16. (2008)
+김이용, 홍정대, 천정희, 박근수
+STTP를 활용한 공평한 비밀 매칭
+정복과학회논문지: 컴퓨터의 실제 및 레터, 14.4:446-450. (2008)
+홍정대, 김진일, 천정희, 박근수
+정확성을 보장하는 결정적 private matching
+정보과학회논문지: 시스템 및 이론, 34.10:502-510. (2007)
+이선호, 박근수
+함수에 의한 정규화를 이용한 local alignment 알고리즘
+정보과학회논문지: 시스템 및 이론, 34.5-6:187-194. (2007)
+나중채, 박근수
+외부 메모리에서 문자열을 효율적으로 탐색하기 위한 인덱스 자료구조 (An index data structure for string search in external memory)
+정보과학회논문지: 시스템 및 이론, 32.11:598-607. (2005)
+나중채, 노강호, 박근수
+품질 정보를 이용한 서열 배치 알고리즘 (Sequence alignment algorithm using quality information)
+정보과학회논문지: 시스템 및 이론, 32.11-12:578-586. (2005)
+최용욱, 심정섭, 박근수
+접미사 배열을 이용한 시간과 공간 효율적인 검색 (Time and space efficient search with suffix arrays)
+정보과학회논문지: 시스템 및 이론, 32.5-6:260-267. (2005)
+심정섭, 김동규, 박희진, 박근수
+접미사 배열을 이용한 선형시간 탐색 (Linear-time search in suffix arrays)
+정보과학회논문지: 시스템 및 이론, 32.5-6:255-259. (2005)
+최승걸, 박근수
+익명성 메커니즘: 그룹 서명과 추적 가능한 서명
+정보과학회지, 23.1:32-39. (2005)
+이문규, 김동규, 박근수
+블록 암호 알고리즘을 사용하지 않는 인증 암호화 방법 (An authenticated encryption scheme without block encryption algorithms)
+정보과학회논문지: 시스템 및 이론, 29.5-6:284-290. (2002)
+김동규, 심정섭, 박근수
+정수 문자 집합상의 접미사트리 구축을 위한 새로운 합병 알고리즘 (A new merging algorithm for constructing suffix trees for integer alphabets)
+정보과학회논문지: 시스템 및 이론, 29.1-2:87-93. (2002)
+심정섭, 박근수, 김성렬, 이지수
+문자열의 근사커버 찾기 (Finding approximate covers of strings)
+정보과학회논문지: 시스템 및 이론, 29.1-2:16-21. (2002)
+이인복, 박근수, 최양희, 정성권
+세그먼트 트리를 이용한 IP 주소 검색 (IP address lookup using segment trees)
+정보과학회논문지: 시스템 및 이론, 28.11-12:613-619. (2001)
+이건호, 박근수
+블록정렬압축에 기반한 접미사배열의 효율적인 저장
+정보과학회논문지: 시스템 및 이론, 28.7-8:350-355. (2001)
+이문규, 박근수, 조유근
+함수 풀에 기반한 개선된 SPEED 암호시스템
+정보과학회논문지: 정보통신, 28.1:56-62. (2001)
+박희진, 박근수, 조유근
+윈도우 방법과 인수 방법을 혼합한 빠른 멱승 알고리즘
+통신정보보호학회논문지, 10.4:73-79. (2000)
+한보형, 박근수
+전도와 전치 연산을 사용하여 정렬하는 빠르고 간단한 알고리즘
+정보과학회논문지, 27.10:861-867. (2000)
+하순회, 박근수
+전자책 단말기 기술의 현황과 전망
+정보과학회지, 18.9:4-12. (2000)
+한보형, 박근수, 김동규
+유전자 정렬 및 재배열 알고리즘
+정보과학회지, 18.8:42-48. (2000)
+윤호빈, 김서진, 박근수, 박경수
+전자상거래와 보안
+정보과학회지, 18.7:36-42. (2000)
+Y. Kim, K. Park and Y. Cho
+An encryption algorithm based on DES for composition Hangul syllables
+Journal of the Korean Institute of Information Security and Cryptology, 9.3:63-74. (1999)
+M.K. Lee and K. Park
+Low-density attack of public-key cryptosystems based on compact knapsacks
+Journal of Electrical Engineering and Information Science, 4.2:197-204. (1999)
+S.R. Kim and K. Park
+An efficient convex hull algorithm on the reconfigurable mesh
+Journal of Electrical Engineering and Information Science, 3.3:281-285. (1998)
+S.E. Lee and K. Park
+A new algorithm for constructing suffix arrays
+Journal of the Korea Information Science Society, 24.7:697-704. (1997)
+J.S. Lee, D.K. Kim, K. Park and Y. Cho
+String matching in graphs
+Journal of the Korea Information Science Society, 24.6:595-603. (1997)
+Y. Chung, K. Park and Y. Cho
+A constant-time algorithm for the domatic partition problem in interval graphs on reconfigurable meshes
+Journal of the Korea Information Science Society, 23.4:382-390. (1996)
+S.S. Lim, Y.H. Bae, S.L. Min, C.Y. Park, K. Park, H. Shin and C.S. Kim
+A worst case timing analysis technique for pipelined execution
+Journal of the Korea Information Science Society, 22.6:908-922. (1995)
+K.S. Park and K. Park
+Sublinear expected time algorithms for the k-mismatches problem
+Journal of the Korea Information Science Society, 22.5:725-732. (1995)
+C.S. Iliopoulos and K. Park
+An optimal O(loglog n)-time algorithm for parallel superprimitivity testing
+Journal of the Korea Information Science Society, 21.8:1400-1404. (1994)
+J.G. Park and K. Park
+Fast string matching on the average
+Journal of the Korea Information Science Society, 21.7:1269-1274. (1994)

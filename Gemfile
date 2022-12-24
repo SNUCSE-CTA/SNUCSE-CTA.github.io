@@ -2,6 +2,6 @@
 
 gem "webrick"
 gem "kramdown-parser-gfm"
-gem "jekyll-scholar"
+gem "jekyll-tabs"
 source "https://rubygems.org"
 gemspec

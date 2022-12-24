@@ -66,10 +66,14 @@
   .hero__meta {
     font-size: 1.5em;
   }
+  .hero__secondtitle {
+    font-size: 1.6em;
+    color: #fff;
+  }
 }
 
 .page-content {
-  max-width: 52.5rem;
+  max-width: 55em;
   margin: 0 auto;
   padding: 2.5em 0;
 
@@ -83,12 +87,12 @@
 }
 
 .post-list {
-  padding-top: 2.5em;
+  padding-top: 1em;
   display: flex;
   flex-wrap: wrap;
   flex: 1 0 auto;
 
   @include breakpoint($md) {
-    padding-top: 5em;
+    padding-top: 1em;
   }
 }

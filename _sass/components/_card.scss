@@ -1,7 +1,8 @@
 .post-card {
   display: block;
   position: relative;
-  width: 100%;
+  width: 250px;
+  height: 330px;
   min-height: 250px;
   border-radius: 4px;
   overflow: hidden;
@@ -49,9 +50,12 @@
   }
 
   &__inner {
+    text-align: center;
     display: block;
     position: relative;
-    padding: 1.875rem 1.25rem 0.625rem;
+    margin-top: 1em;
+    margin-bottom: -8px;
+    padding: 0.25rem 1.25rem 0.25rem;
     width: 100%;
     color: $grey;
     border-bottom: 0;
@@ -77,6 +81,7 @@
   background: $bg-color;
   position: relative;
   overflow: hidden;
+  height: 250px;
 
   &::after {
     content: "";
@@ -84,7 +89,7 @@
     height: 0;
     width: 100%;
     // 16:9 = 56.25% = calc(9 / 16 * 100%)
-    padding-bottom: 56.25%;
+    // padding-bottom: 56.25%;
   }
 
   > * {

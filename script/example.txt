@@ -1,0 +1,23 @@
+<div class="publications">
+<ol class="bibliography"><li>
+
+<div class="row">
+  <div class="col-sm-2 abbr">
+    <abbr class="badge">KCC 2021</abbr>
+  </div>
+
+  <div id="kcc21daf" class="col-sm-8">
+    
+      <div class="title">부분 그래프 매칭 문제를 위한 향상된 동적 매칭 순서</div>
+      <div class="author">
+                  Seungwhan Min,
+                <em>Wonseok Shin</em>,
+                  Chaewon Kim,
+                  and <a href="http://theory.snu.ac.kr/?page_id=427" target="_blank" rel="noopener noreferrer">Kunsoo Park</a>
+      </div>
+  </div>
+
+</div>
+
+</li></ol>
+</div>

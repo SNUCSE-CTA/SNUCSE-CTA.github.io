@@ -3,7 +3,7 @@ title: Computer Theory and Applications Lab # your site title
 author: SNUCSE-CTA # You :P
 description: > # Meta description of Homepage
   Computer theory and applications lab at Seoul National University
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://snucse-cta.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # # SEO PLUGIN
@@ -20,8 +20,9 @@ url: "https://snucse-cta.github.io/" # the base hostname & protocol for your sit
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Members', link: '/members'}
+  - {name: 'Publication', link: '/publications'}
+  - {name: 'Research', link: '/research'}
 
 tagline: >
   Seoul National University, Dept.of Computer Science and Engineering
@@ -59,7 +60,6 @@ exclude:
   - sleek.jpg
 
 include: ['_pages']
-permalink: /:title/
 
 compress_html:
   clippings: all
@@ -67,3 +67,13 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-tabs
+
+
+collections:
+  areas:
+    output: true
+    permalink: /research-area/:title/
+
+scholar:
+  style: modern-language-association

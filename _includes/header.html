@@ -1,16 +1,12 @@
 <header class="header" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Main navigation">
   <div class="container">
     <div class="header__inner">
-      <a class="header__logo" href="{{ '/' | relative_url }}">
-        <div class="header__logo--container">
-          {% include logo.svg %}
-        </div>
-      </a>
+      <a href="/"><h3>컴퓨터이론 및 응용 연구실</h3></a>
       <nav class="header__links">
         <div class="container header__links-wrapper">
           {% for item in site.navigation %}
             <a class="header__link" href="{{ item.link | relative_url }}" itemprop="url">
-              <span itemprop="name">{{ item.name }}</span>
+              <h5><span itemprop="name">{{ item.name }}</span></h5>
             </a>
           {% endfor %}
         </div>

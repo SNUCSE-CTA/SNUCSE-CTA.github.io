@@ -30,9 +30,11 @@
   "components/form",
   "components/modal",
   "components/table",
-  "components/syntax";
+  "components/syntax",
+  "components/tabs";
 
 // 6. Page-specific styles
 @import
   "pages/page",
-  "pages/post";
+  "pages/post",
+  "pages/publications";
