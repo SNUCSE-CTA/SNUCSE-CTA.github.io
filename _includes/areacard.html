@@ -12,7 +12,7 @@
     <a href="{{ area.permalink | relative_url }}">
         {% if area.img %}
           <figure class="post-card__thumb">
-            <img src="/assets/img/{{ area.img }}" alt="{{ post.title }}">
+            <img src="{{ site.url }}/home/assets/img/{{ area.img }}" alt="{{ post.title }}">
           </figure>
         {% else %}
           <figure class="post-card__thumb">
