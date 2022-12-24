@@ -1,7 +1,6 @@
 # SITE CONFIGURATION
 title: Computer Theory and Applications Lab # your site title
 author: SNUCSE-CTA # You :P
-baseurl: "/home/"
 description: > # Meta description of Homepage
   Computer theory and applications lab at Seoul National University
 url: "https://snucse-cta.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
