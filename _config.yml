@@ -44,7 +44,7 @@ service_worker: true
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge # or pygments or null
-theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+# theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
 # remote-theme: jekyll-sleek
 exclude:
   - README.md
@@ -68,7 +68,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-tabs
-  - jekyll-sleek
+  # - jekyll-sleek
 
 
 collections:
