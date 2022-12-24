@@ -1,13 +1,4 @@
-PATH
-  remote: .
-  specs:
-    jekyll-sleek (0.1.9)
-      jekyll (~> 3.6)
-      jekyll-seo-tag (~> 2.3)
-      jekyll-sitemap (~> 1.1)
-
 GEM
-  remote: https://rubygems.org/
   specs:
     addressable (2.8.1)
       public_suffix (>= 2.0.2, < 6.0)
@@ -41,6 +32,10 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-sleek (0.1.9)
+      jekyll (~> 3.6)
+      jekyll-seo-tag (~> 2.3)
+      jekyll-sitemap (~> 1.1)
     jekyll-tabs (1.1.1)
       jekyll (>= 3.0, < 5.0)
     jekyll-watch (2.2.1)
@@ -57,7 +52,6 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (5.0.1)
-    rake (10.5.0)
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -75,11 +69,10 @@ PLATFORMS
   arm64-darwin-21
 
 DEPENDENCIES
-  bundler (>= 1.12)
-  jekyll-sleek!
+  jekyll
+  jekyll-sleek
   jekyll-tabs
   kramdown-parser-gfm
-  rake (~> 10.0)
   webrick
 
 BUNDLED WITH

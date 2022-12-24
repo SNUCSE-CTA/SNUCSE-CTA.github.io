@@ -3,5 +3,5 @@
 gem "webrick"
 gem "kramdown-parser-gfm"
 gem "jekyll-tabs"
-source "https://rubygems.org"
-gemspec
+gem "jekyll"
+gem "jekyll-sleek"
