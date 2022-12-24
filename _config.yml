@@ -46,7 +46,7 @@ service_worker: true
 markdown: kramdown
 highlighter: rouge # or pygments or null
 theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
-remote-theme: jekyll-sleek
+# remote-theme: jekyll-sleek
 exclude:
   - README.md
   - node_modules
@@ -69,6 +69,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-tabs
+  - jekyll-sleek
 
 
 collections:
