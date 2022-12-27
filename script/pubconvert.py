@@ -5,7 +5,9 @@ for i in range(0, len(text), 3):
     if len(text[i].strip()) == 0: continue
     authors = text[i].strip()
     title = text[i+1].strip()
-    venue = text[i+2].strip()
+    text[i+2] = text[i+2].replace(", SCIE", "")
+    text[i+2] = text[i+2].replace(", SCI", "")
+    venue = text[i+2].strip().split(',')[0] + ' ' + text[i+2].strip().split(',')[-1][-5:-1]
     # print(authors, title, venue)
     result.append(f'<div class="row">\n<div class="col-sm-2 abbr">')
     result.append(f'<abbr class="badge">{venue}</abbr></div>')
@@ -20,7 +22,6 @@ for i in range(0, len(text), 3):
     </div>
     ''')
 result.append("""
-</div>
 </li></ol>
 </div>
 """)

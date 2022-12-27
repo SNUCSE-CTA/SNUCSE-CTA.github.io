@@ -74,6 +74,9 @@ collections:
   areas:
     output: true
     permalink: /research-area/:title/
+  news:
+    output: true
 
 scholar:
   style: modern-language-association
+

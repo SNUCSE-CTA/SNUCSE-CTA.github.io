@@ -58,10 +58,13 @@ $black-color: #000000 !default;
       margin-top: 0;
   
       li {
+        .row {
+          margin-bottom: 0.5em;
+        }
         margin-bottom: 1rem;
         .abbr {
           height: 2rem;
-          margin-bottom: 0.5rem;
+          margin-bottom: 0rem;
           abbr {
             display: inline-block;
             background-color: $purple-color;

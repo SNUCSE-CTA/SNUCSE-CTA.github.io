@@ -1044,9 +1044,11 @@ table {
     margin-top: 0; }
     .publications ol.bibliography li {
       margin-bottom: 1rem; }
+      .publications ol.bibliography li .row {
+        margin-bottom: 0.5em; }
       .publications ol.bibliography li .abbr {
         height: 2rem;
-        margin-bottom: 0.5rem; }
+        margin-bottom: 0rem; }
         .publications ol.bibliography li .abbr abbr {
           display: inline-block;
           background-color: #B509AC;

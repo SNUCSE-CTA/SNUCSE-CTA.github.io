@@ -56,7 +56,49 @@ table td { width : 50%;​}
     </div>
 </div>
 
-## Publications
-Selected Publications
+<style>
+    table th {
+        font-size:1.1rem;
+        font-weight:bold;
+        border: 0px;
+        padding : 0px;
+        width: 10%;
+        background-color : #ffffff;
+    }
+    thead {
+        border: 0px;
+    }
+    .summary {
+      font-size: 1rem;
+      font-weight: normal;
+    }
+</style>
 
-Full List
+
+<div class="news">
+  <a href="/news/"><h2>News</h2></a>
+  {% if site.news  %}
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+      {% assign news = site.news | where: "on-home", "true" | reverse %}
+      {% for item in news limit: site.news_limit %}
+        <tr>
+          <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+          <td>
+            {% if item.inline %}
+              {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+            {% else %}
+              <a class="news-title" href="{{ item.permalink | relative_url }}">{{ item.title }}</a><br/>
+              <div class="summary">
+              {{ item.content | remove: '<p>' | remove: '</p>' | emojify | truncatewords:50 }}...
+              </div>
+            {% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+      </table>
+    </div>
+  {% else %}
+    <p>No news so far...</p>
+  {% endif %}
+</div>

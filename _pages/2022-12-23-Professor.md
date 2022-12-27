@@ -27,9 +27,7 @@ table, table tr, table td {
 - **E-Mail**: kpark@theory.snu.ac.kr
 </td>
 <td class="right-image">
-<figure class="post-card__thumb">
     <img src="/assets/img/thumb_kpark.jpg" alt="PHOTO">
-</figure>
 </td>
 </tr>
 </table>

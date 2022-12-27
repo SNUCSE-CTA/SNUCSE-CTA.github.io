@@ -25,17 +25,19 @@ title: "Publications"
 {% include_relative pubs/intl-conf.html %}
 {% endtab %}
 
-{% tab publications Intl Journal %}
-### International Journals
+{% tab publications Dmst Conference %}
+## Domestic Conference Publications
+{% include_relative pubs/dmst-conf.html %}
+{% endtab %}
 
+{% tab publications Intl Journal %}
+## International Journal Publications
+{% include_relative pubs/intl-jrnl.html %}
 {% endtab %}
 
 {% tab publications Dmst Journal %}
-### Domestic Journals
-{% endtab %}
-
-{% tab publications Dmst Conference %}
-### Domestic Conference
+## Domestic Journal Publications
+{% include_relative pubs/dmst-jrnl.html %}
 {% endtab %}
 
 {% endtabs %}

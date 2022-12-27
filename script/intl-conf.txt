@@ -1,126 +1,246 @@
-홍선기, 구건모, 김현준, 박근수
-부분 그래프 동형 문제를 위한 동적 매칭 순서들의 성능 비교
-KIISE Transactions on Computing Practices, 26.1:38-43. (January 2020)
-임지혁, 김선, 박근수
-De novo 시퀀스 어셈블리의 overlap 단계의 최근 연구 실험 분석
-정보과학회논문지, 45.3:200-210. (March 2018)
-한명지, 임지혁, 최준용, 김현준, 서정주, 유철, 김성렬, 박근수
-X-means 클러스터링을 이용한 악성 트래픽 탐지 방법
-Journal of KIISE, 41.9:617-624. (September 2014)
-이선호, 김진욱, 박근수, 백은옥, 박희진
-Selenocysteine을 포함한 폴리펩티드의 단동위질량을 결정하는 알고리즘의 실험적 분석
-정보과학회논문지: 컴퓨팅의 실제 및 레터, 19.5:235-241. (May 2013)
-서정주, 김진일, 김은상, 김영호, 정하웅, 김성렬, 박근수
-국내 웹 그래프의 링크 구조 분석
-정보과학회논문지: 컴퓨팅의 실제 및 레터, 19.1:7-14. (January 2013)
-노강호, 박근수, 조환규, 장소원
-음소의 1차원 배열을 이용한 한글 유사도 및 편집거리 알고리즘
-정보과학회논문지: 컴퓨팅의 실제 및 레터, 17.10:519-526. (2011)
-김진일, 서정주, 홍정대, 박근수
-익명성을 제공하는 공평한 그룹 복호화 기법
-정보과학회논문지: 시스템 및 이론, 37.6:348-353. (2010)
-김은상, 김진욱, 박근수
-다중바이트 문자집합 텍스트에서의 문자열 검색 알고리즘
-정보과학회논문지: 컴퓨팅의 실제 및 레터, 16.10:1015-1019. (2010)
-노강호, 김진욱, 김은상, 박근수, 조환규
-한글에 대한 편집 거리 문제
-정보과학회논문지: 시스템 및 이론, 37.2:103-109. (2010)
-김진일, 권유진, 김진욱, 김성렬, 박근수
-그래프 탐색 기법을 이용한 효율적인 웹 크롤링 방법들
-정보과학회논문지: 시스템 및 이론, 37.1:27-34. (2010)
-김진욱, 김은상, 안융기, 박근수
-DNA 서열을 위한 빠른 매칭 기법
-정보과학회논문지: 시스템 및 이론, 36.4:231-238. (2009)
-정태영, 이태형, 박근수
-실용적인 접미사 정렬 알고리즘의 개선
-정보과학회논문지: 시스템 및 이론, 36.2:68-72. (2009)
-윤민, 나형준, 이문규, 박근수
-안전한 센서 네트워크를 위한 스트림 암호의 성능 비교 분석
-정보보호학회논문지, 18.5:3-16. (2008)
-김이용, 홍정대, 천정희, 박근수
-STTP를 활용한 공평한 비밀 매칭
-정복과학회논문지: 컴퓨터의 실제 및 레터, 14.4:446-450. (2008)
-홍정대, 김진일, 천정희, 박근수
-정확성을 보장하는 결정적 private matching
-정보과학회논문지: 시스템 및 이론, 34.10:502-510. (2007)
-이선호, 박근수
-함수에 의한 정규화를 이용한 local alignment 알고리즘
-정보과학회논문지: 시스템 및 이론, 34.5-6:187-194. (2007)
-나중채, 박근수
-외부 메모리에서 문자열을 효율적으로 탐색하기 위한 인덱스 자료구조 (An index data structure for string search in external memory)
-정보과학회논문지: 시스템 및 이론, 32.11:598-607. (2005)
-나중채, 노강호, 박근수
-품질 정보를 이용한 서열 배치 알고리즘 (Sequence alignment algorithm using quality information)
-정보과학회논문지: 시스템 및 이론, 32.11-12:578-586. (2005)
-최용욱, 심정섭, 박근수
-접미사 배열을 이용한 시간과 공간 효율적인 검색 (Time and space efficient search with suffix arrays)
-정보과학회논문지: 시스템 및 이론, 32.5-6:260-267. (2005)
-심정섭, 김동규, 박희진, 박근수
-접미사 배열을 이용한 선형시간 탐색 (Linear-time search in suffix arrays)
-정보과학회논문지: 시스템 및 이론, 32.5-6:255-259. (2005)
-최승걸, 박근수
-익명성 메커니즘: 그룹 서명과 추적 가능한 서명
-정보과학회지, 23.1:32-39. (2005)
-이문규, 김동규, 박근수
-블록 암호 알고리즘을 사용하지 않는 인증 암호화 방법 (An authenticated encryption scheme without block encryption algorithms)
-정보과학회논문지: 시스템 및 이론, 29.5-6:284-290. (2002)
-김동규, 심정섭, 박근수
-정수 문자 집합상의 접미사트리 구축을 위한 새로운 합병 알고리즘 (A new merging algorithm for constructing suffix trees for integer alphabets)
-정보과학회논문지: 시스템 및 이론, 29.1-2:87-93. (2002)
-심정섭, 박근수, 김성렬, 이지수
-문자열의 근사커버 찾기 (Finding approximate covers of strings)
-정보과학회논문지: 시스템 및 이론, 29.1-2:16-21. (2002)
-이인복, 박근수, 최양희, 정성권
-세그먼트 트리를 이용한 IP 주소 검색 (IP address lookup using segment trees)
-정보과학회논문지: 시스템 및 이론, 28.11-12:613-619. (2001)
-이건호, 박근수
-블록정렬압축에 기반한 접미사배열의 효율적인 저장
-정보과학회논문지: 시스템 및 이론, 28.7-8:350-355. (2001)
-이문규, 박근수, 조유근
-함수 풀에 기반한 개선된 SPEED 암호시스템
-정보과학회논문지: 정보통신, 28.1:56-62. (2001)
-박희진, 박근수, 조유근
-윈도우 방법과 인수 방법을 혼합한 빠른 멱승 알고리즘
-통신정보보호학회논문지, 10.4:73-79. (2000)
-한보형, 박근수
-전도와 전치 연산을 사용하여 정렬하는 빠르고 간단한 알고리즘
-정보과학회논문지, 27.10:861-867. (2000)
-하순회, 박근수
-전자책 단말기 기술의 현황과 전망
-정보과학회지, 18.9:4-12. (2000)
-한보형, 박근수, 김동규
-유전자 정렬 및 재배열 알고리즘
-정보과학회지, 18.8:42-48. (2000)
-윤호빈, 김서진, 박근수, 박경수
-전자상거래와 보안
-정보과학회지, 18.7:36-42. (2000)
-Y. Kim, K. Park and Y. Cho
-An encryption algorithm based on DES for composition Hangul syllables
-Journal of the Korean Institute of Information Security and Cryptology, 9.3:63-74. (1999)
-M.K. Lee and K. Park
-Low-density attack of public-key cryptosystems based on compact knapsacks
-Journal of Electrical Engineering and Information Science, 4.2:197-204. (1999)
+S. Song, G. Gu, C. Ryu, S. Faro, T. Lecroq, K. Park
+Fast algorithms for single and multiple pattern Cartesian tree matching
+Theoretical Computer Science, Volume 849:47-63. (January 2021)
+S.G. Park, M. Bataa, A. Amir, G. M. Landau, K. Park
+Finding patterns and periods in Cartesian tree matching
+Theoretical Computer Science, Volume 845:181-197. (December 2020)
+C. Ryu, T. Lecroq, and K. Park
+Fast String Matching for DNA Sequences
+Theoretical Computer Science, 812:137-148. (April 2020)
+S. Lee, C. Ryu, S.K. Cha, K. Park, J. Oh, K. Kim and C. Song
+Interval disaggregation with product life cycles and constraints
+Journal of Computing Science and Engineering, 12.2:63-76. (June 2018)
+C. Ryu and K. Park
+Improved pattern-scan-order algorithms for string matching
+Journal of Discrete Algorithms, 49:27-36. (March 2018)
+J.C. Na, H. Kim, S. Min, H. Park, T. Lecroq, M. Leonard, L. Mouchard, and K. Park
+FM-index of alignment with gaps
+Theoretical Computer Science, 710:148-157. (February 2018)
+J. Seo and K. Park
+Fast batch modular exponentiation with common-multiplicand multiplication
+Information Processing Letters, 129:5-10. (January 2018)
+J. Lim and K. Park
+A fast algorithm for the all-pairs suffix-prefix problem
+Theoretical Computer Science, 698:14-24. (October 2017)
+J. Kim, A. Amir, J.C. Na, K. Park, and J.S. Sim
+On representations of ternary order relations in numeric strings
+Mathematics in Computer Science, 11:127-136. (May 2017)
+J.C. Na, H. Kim, H. Park, T. Lecroq, M. Leonard, L. Mouchard, and K. Park
+FM-index of alignment: a compressed index for similar strings
+Theoretical Computer Science, 638:159-170. (July 2016, SCI)
+J.W. Kim, J. Seo, J. Hong, K. Park, and S.R. Kim
+High-speed parallel implementations of the rainbow method based on perfect tables in a heterogeneous system
+Software-Practice and Experience, 45:837-855. (June 2015, SCIE)
+J. Seo, M. Han, and K. Park
+Efficient accessing and searching in a sequence of numbers
+Journal of Computing Science and Engineering, 9.1:1-8. (March 2015)
+S. Cho, J.C. Na, K. Park, and J.S. Sim
+A fast algorithm for order-preserving pattern matching
+Information Processing Letters, 115.2:397-402. (February 2015, SCIE)
+S.K. Cha, K. Park, C. Song, K. Kim, C. Ryu, and S. Lee
+Interval disaggregate: a new operator for business planning
+Proceedings of the VLDB Endowment, 7.13:1381-1392. (August 2014, SCOPUS)
+J.C. Na, S. Cho, S. Choi, J.W. Kim, K. Park and J.S. Sim
+A new graph model and algorithms for consistent superstring problems
+Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 372.2016:20130134. (May 2014, SCI)
+C. Barton, C.S. Iliopoulos, I. Lee, L. Mouchard, K. Park, and S.P. Pissis
+Extending alignments with k-mismatches and l-gaps
+Theoretical Computer Science, 525:80-88. (March 2014, SCI)
+J. Kim, P. Eades, R. Fleischer, S.H. Hong, C.S. Iliopoulos, K. Park, S.J. Puglisi, and T. Tokuyama
+Order-preserving matching
+Theoretical Computer Science, 525:68-79. (March 2014, SCI)
+J. Hong, J.W. Kim, J. Kim, K. Park and J.H. Cheon
+Constant-round privacy preserving multiset union
+Bulletin of the Korean Mathematical Society, 50.6:1799-1816. (November 2013, SCIE)
+T. Flouri, K. Frousios, C.S. Iliopoulos, K. Park, S.P. Pissis and G. Tischler
+GapMis: a tool for pairwise sequence alignment with a single gap
+Recent Patents on DNA & Gene Sequences, 7.2:84-95. (July 2013, SCOPUS)
+M.K. Lee, J.W. Kim, J.E. Song and K. Park
+Efficient implementation of NTRU cryptosystem using sliding window methods
+IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, 96.1:206-214. (January 2013, SCIE)
+T. Lee, J.C. Na, H. Park, K. Park, and J.S. Sim
+Finding consensus and optimal alignment of circular strings
+Theoretical Computer Science, 468:92-101. (January 2013, SCI)
+J.W. Kim, S. Lee, K. Park, S. Na, E. Paek, H.S. Park, H. Park, K.J. Lee, J. Jeong, and H.Y. Kim
+Monoisotopic mass determination algorithm for selenocysteine-containing polypeptides from mass spectrometric data based on theoretical modeling of isotopic peak intensity ratios
+Journal of Proteome Research, 11.9:4488-4498. (2012, SCI)
+A. Amir, G.M. Landau, J.C. Na, H. Park, K. Park and J.S. Sim
+Efficient algorithms for consensus string problems minimizing both distance sum and radius
+Theoretical Computer Science, 412.39:5239-5246. (2011, SCI)
+T. Lee, J.C. Na and K. Park
+On-line construction of parameterized suffix trees for large alphabets
+Information Processing Letters, 111.5:201-207. (2011, SCIE)
+D.K. Kim, J.C. Na, J.S. Sim and K. Park
+Linear-time construction of two-dimensional suffix trees
+Algorithmica, 59.2:269-297. (2011, SCI)
+J.Y. Yoon, J. Yeom, H. Lee, K. Kim, S. Na, K. Park, E. Paek, and C. Lee
+High-throughput peptide quantification using mTRAQ reagent triplex
+BMC Bioinformatics, 12.S1:S46. (2011, SCIE)
+J. Hong, J. Kim, J. Kim, M.K. Franklin and K. Park
+Fair threshold decryption with semi-trusted third parties
+International Journal of Applied Cryptography, 2.2:139-153. (2010)
+J.Y. Yoon, K.Y. Lim, S. Lee, K. Park, E. Paek, U.B. Kang, J. Yeom, and C. Lee
+Improved quantitative analysis of mass spectrometry using quadratic equations
+Journal of Proteome Research, 9.5:2775-2785. (2010, SCI)
+J.C. Na, J.E. Kim, K. Park, and D.K. Kim
+Fast computation of rank and select functions for succinct representation
+IEICE Transactions on Information and Systems, 92.10:2025-2033. (2009, SCIE)
+S. Lee and K. Park
+Dynamic rank/select structures with applications to run-length encoded texts
+Theoretical Computer Science, 410.43:4402-4413. (2009, SCI)
+S. Lee and K. Park
+Dynamic compressed representation of texts with rank/select
+Journal of Computing Science and Engineering, 3.1:15-26. (2009)
+K. Park, H. Park, W.C. Jeun and S. Ha
+Boolean circuit programming: a new paradigm to design parallel algorithms
+Journal of Discrete Algorithms, 7.2:267-277. (2009)
+E. Kim and K. Park
+Improving multikey quicksort for sorting strings with many equal elements
+Information Processing Letters, 109.9:454-459. (2009, SCIE)
+J.C. Na, K. Roh, A. Apostolico and K. Park
+Alignment of biological sequences with quality scores
+International Journal of Bioinformatics Research and Applications, 5.1:97-113. (2009)
+K. Park, J.Y. Yoon, S. Lee, E. Paek, H. Park, H.J. Jung and S.W. Lee
+Isotopic peak intensity ratio based algorithm for determination of isotopic clusters and monoisotopic masses of polypeptides from high-resolution mass spectrometric data
+Analytical Chemistry, 80.19:7294-7303. (2008, SCI)
+J.W. Kim, A. Amir, G.M. Landau and K. Park
+Computing similarity of run-length encoded strings with affine gap penalty
+Theoretical Computer Science, 395.2-3:268-282. (2008, SCI)
+E. Kim, L. Xiao, K. Nahrstedt and K. Park
+Secure interdomain routing registry
+IEEE Transactions on Information Forensics and Security, 3.2:304-316. (2008, SCIE)
+E. Park and K. Park
+An improved boolean circuit for maximum matching in a convex bipartite graph
+Fundamenta Informaticae, 84.1:81-97. (2008, SCIE)
+K. Roh, M. Crochemore, C.S. Iliopoulos and K. Park
+External memory algorithms for string problems
+Fundamenta Informaticae, 84.1:17-32. (2008, SCIE)
+J.C. Na and K. Park
+Alphabet-independent linear-time construction of compressed suffix arrays using o(nlogn)-bit working space
+Theoretical Computer Science, 385.1-3:127-136. (2007, SCI)
+J.C. Na, R. Giancarlo, and K. Park
+On-line construction of two-dimensional suffix trees in O(n^2 log n) time
+Algorithmica, 48.2:173-186. (2007, SCI)
+I. Lee, C.S. Iliopoulos, and K. Park
+Linear time algorithm for the longest common repeat problem
+Journal of Discrete Algorithms, 5.2:243-249. (2007)
+J.W. Kim and K. Park
+An efficient alignment algorithm for masked sequences
+Theoretical Computer Science, 370.1-3:19-33. (2007, SCI)
+J.W. Kim, K.H. Roh, K. Park, H. Park, and J.S. Seo
+MLP: mate-based sequence layout with Phrap
+Bioinformatics and Biosystems, 1.1:61-66. (2006)
+S.G. Park, T. Lee, H.Y. Kang, K. Park, K.H. Cho and G. Jung
+The influence of the signal dynamics of activated form of IKK on NF-kB and anti-apoptotic gene expressions: A systems biology approach
+FEBS Letters, 580.3:822-830. (2006, SCI)
+M. Christodoulakis, C.S. Iliopoulos, K. Park and J.S. Sim
+Approximate seeds of strings
+Journal of Automata, Languages and Combinatorics, 10.5-6:609-626. (2005)
+T.J. Park, M.K. Lee, K. Park and K.I. Chung
+Speeding up scalar multiplication in genus 2 hyperelliptic curves with efficient endomorphisms
+ETRI Journal, 27.5:617-627. (2005, SCI)
+M. Christodoulakis, C.S. Iliopoulos, K. Park and J.S. Sim
+Implementing approximate regularities
+Mathematical and Computer Modelling, 42.7-8:855-866. (2005, SCIE)
+D.K. Kim, J.S. Sim, H. Park and K. Park
+Constructing suffix arrays in linear time
+Journal of Discrete Algorithms, 3.2-4:126-142. (2005)
+M.K. Lee, Y. Kim, K. Park and Y. Cho
+Efficient parallel exponentiation in GF(q^n) using normal basis representations
+Journal of Algorithms, 54.2:205-221. (2005, SCI)
+Z. Galil, J.G. Park and K. Park
+Three-dimensional periodicity and its application to pattern matching
+SIAM Journal on Discrete Mathematics, 18.2:362-381. (2004, SCI)
+H. Park, K. Park and Y. Cho
+Deleting keys of B-trees in parallel
+Journal of Parallel and Distributed Computing, 64.9:1041-1050. (2004, SCI)
+S.R. Kim, I. Lee and K. Park
+A fast algorithm for the generalized k-keyword proximity problem given keyword offsets
+Information Processing Letters, 91.3:115-120. (2004, SCIE)
 S.R. Kim and K. Park
-An efficient convex hull algorithm on the reconfigurable mesh
-Journal of Electrical Engineering and Information Science, 3.3:281-285. (1998)
-S.E. Lee and K. Park
-A new algorithm for constructing suffix arrays
-Journal of the Korea Information Science Society, 24.7:697-704. (1997)
-J.S. Lee, D.K. Kim, K. Park and Y. Cho
-String matching in graphs
-Journal of the Korea Information Science Society, 24.6:595-603. (1997)
+A dynamic edit distance table
+Journal of Discrete Algorithms, 2.2:303-312. (2004)
+R. Cole, Z. Galil, R. Hariharan, S. Muthukrishnan and K. Park
+Parallel two dimensional witness computation
+Information and Computation, 188.1:20-67. (2004, SCI)
+S. Kim, J.S. Sim, H. Park, K. Park, H. Park and J.S. Seo
+A heuristic algorithm to find all normalized local alignments above a threshold
+Genomics & Informatics, 1.1:25-31. (2003)
+Y. Chung and K. Park
+An efficient parallel algorithm for scheduling interval ordered tasks
+Journal of Complexity, 19.4:597-609. (2003, SCI)
+J.C. Na, A. Apostolico, C.S. Iliopoulos and K. Park
+Truncated suffix trees and their application to data compression
+Theoretical Computer Science, 304.1-3:87-101. (2003, SCI)
+I. Lee, K. Park, S.K. Chung and Y. Choi
+A simple and scalable algorithm for the IP address lookup problem
+Fundamenta Informaticae, 56.1-2:181-190. (2003, SCIE)
+D.K. Kim, Y.A. Kim and K. Park
+Generalizations of suffix arrays to multi-dimensional matrices
+Theoretical Computer Science, 302.1-3:223-238. (2003, SCI)
+M.K. Lee and K. Park
+Efficient arithmetic in optimal extension fields using simultaneous multiplication
+IEICE Transactions on Fundamentals of Electronics, Communications and Computer Science, 86.5:1316-1321. (2003, SCIE)
+J.S. Sim and K. Park
+The consensus string problem for a metric is NP-complete
+Journal of Discrete Algorithms, 1.1:111-117. (2003)
+J.S. Sim, C.S. Iliopoulos, K. Park and W.F. Smyth
+Approximate periods of strings
+Theoretical Computer Science, 262.1-2:557-568. (2001, SCI)
+H. Park and K. Park
+Parallel algorithms for red-black trees
+Theoretical Computer Science, 262.1-2:415-435. (2001, SCI)
+S.R. Kim and K. Park
+Fully scalable fault-tolerant simulations for BSP and CGM
+Journal of Parallel and Distributed Computing, 60.12:1531-1560. (2000, SCI)
+H. Park, K. Park and Y. Cho
+Analysis of the variable length nonzero window method for exponentiation
+Computers & Mathematics with Applications, 37.7:21-29. (1999, SCI)
 Y. Chung, K. Park and Y. Cho
-A constant-time algorithm for the domatic partition problem in interval graphs on reconfigurable meshes
-Journal of the Korea Information Science Society, 23.4:382-390. (1996)
-S.S. Lim, Y.H. Bae, S.L. Min, C.Y. Park, K. Park, H. Shin and C.S. Kim
-A worst case timing analysis technique for pipelined execution
-Journal of the Korea Information Science Society, 22.6:908-922. (1995)
-K.S. Park and K. Park
-Sublinear expected time algorithms for the k-mismatches problem
-Journal of the Korea Information Science Society, 22.5:725-732. (1995)
+Parallel maximum matching algorithms in interval graphs
+International Journal of Foundations of Computer Science, 10.1:47-60. (1999)
+D.K. Kim, J.S. Lee, K. Park and Y. Cho
+Efficient algorithms for approximate string matching with swaps
+Journal of Complexity, 15.1:128-147. (1999, SCI)
+K. Park
+Analysis of two-dimensional approximate pattern matching algorithms
+Theoretical Computer Science, 201.1-2:263-273. (1998, SCI)
+K. Park, S.L. Min and Y. Cho
+The working set algorithm has competitive ratio less than two
+Information Processing Letters, 63.4:183-188. (1997, SCI)
+M. Crochemore, Z. Galil, L. Gasieniec, K. Park and W. Rytter
+Constant-time randomized parallel string matching
+SIAM Journal on Computing, 26.4:950-960. (1997, SCI)
+C.S. Iliopoulos, D.W.G. Moore and K. Park
+Covering a string
+Algorithmica, 16.3:288-297. (1996, SCI)
+Z. Galil and K. Park
+Alphabet-independent two-dimensional witness computation
+SIAM Journal on Computing, 25.5:907-935. (1996, SCI)
 C.S. Iliopoulos and K. Park
-An optimal O(loglog n)-time algorithm for parallel superprimitivity testing
-Journal of the Korea Information Science Society, 21.8:1400-1404. (1994)
-J.G. Park and K. Park
-Fast string matching on the average
-Journal of the Korea Information Science Society, 21.7:1269-1274. (1994)
+A work-time optimal algorithm for computing all string covers
+Theoretical Computer Science, 164.1-2:299-310. (1996, SCI)
+O. Berkman, C.S. Iliopoulos and K. Park
+The subtree max gap problem with application to parallel string covering
+Information and Computation, 123.1:127-137. (1995, SCI)
+S.S. Lim, Y.H. Bae, G.T. Jang, B.D. Rhee, S.L. Min, C.Y. Park, H. Shin, K. Park, S.M. Moon and C.S. Kim
+An accurate worst case timing analysis for RISC processors
+IEEE Transactions on Software Engineering, 21.7:593-604. (1995, SCI)
+A. Amir, M. Farach, Z. Galil, R. Giancarlo and K. Park
+Dynamic dictionary matching
+Journal of Computer and System Sciences, 49.2:208-222. (1994, SCI)
+Z. Galil and K. Park
+Parallel algorithms for dynamic programming recurrences with more than O(1) dependency
+Journal of Parallel and Distributed Computing, 21.2:213-222. (1994, SCI)
+B.F. Wang, G.H. Chen and K. Park
+On the set LCS and set-set LCS problems
+Journal of Algorithms, 14.3:466-477. (1993, SCI)
+Z. Galil and K. Park
+Dynamic programming with convexity, concavity and sparsity
+Theoretical Computer Science, 92.1:49-76. (1992, SCI)
+Z. Galil and K. Park
+Linear-time algorithm for concave one-dimensional dynamic programming
+Information Processing Letters, 33.6:309-311. (1990, SCI)
+Z. Galil and K. Park
+An improved algorithm for approximate string matching
+SIAM Journal on Computing, 19.6:989-999. (1990, SCI)
