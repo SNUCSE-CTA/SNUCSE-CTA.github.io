@@ -6,12 +6,12 @@ title: "Publications"
 
 <style>
 .row {
-    padding-bottom : 1em;
+    padding-bottom : 1.5em;
 }
 .col-sm-8 {
     max-width : 100%;
     flex : None;
-    font-size : 1.2em;
+    /* font-size : 1.2em; */
 }
 .badge {
     font-size : 92%;

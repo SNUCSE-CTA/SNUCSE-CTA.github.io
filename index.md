@@ -90,7 +90,7 @@ table td { width : 50%;​}
             {% else %}
               <a class="news-title" href="{{ item.permalink | relative_url }}">{{ item.title }}</a><br/>
               <div class="summary">
-              {{ item.content | remove: '<p>' | remove: '</p>' | emojify | truncatewords:50 }}...
+              {{ item.content | remove: '<p>' | remove: '</p>' | emojify | truncatewords:50 }}
               </div>
             {% endif %}
           </td>
