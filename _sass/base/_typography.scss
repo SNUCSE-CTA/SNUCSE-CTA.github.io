@@ -1,7 +1,14 @@
 // General
+@font-face {
+  font-family: 'SUIT-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_suit@1.0/SUIT-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
   background-color: $bg-color;
-  font-family: $font-stack;
+  font-family: 'SUIT-Regular', $font-stack;
   font-size: 1em;
   line-height: 1.8;
   color: $text-color;
