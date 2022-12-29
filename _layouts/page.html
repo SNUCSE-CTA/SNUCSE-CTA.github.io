@@ -21,7 +21,11 @@ layout: compress
 
     <div class="hero--small">
       <div class="hero__wrap">
+        {% if page.title.size > 15 %}
+        <h3 class="hero__title">{{ page.title }}</h3>
+        {% else %}
         <h1 class="hero__title">{{ page.title }}</h1>
+        {% endif %}
         {% if page.secondtitle %}
         <h2 class="hero__secondtitle">{{ page.secondtitle }}</h2>
         {% endif %}

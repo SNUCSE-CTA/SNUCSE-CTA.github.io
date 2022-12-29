@@ -117,6 +117,9 @@ pre {
     background: transparent;
     border: 0; }
 
+strong {
+  font-weight: bold; }
+
 .blur {
   background: #fff;
   filter: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg"><filter id="filter"><feGaussianBlur stdDeviation="16" /></filter></svg>#filter');
@@ -872,8 +875,9 @@ table {
   line-height: 20px; }
 
 .tab > .active > a {
-  color: #222;
-  border-color: #1e87f0; }
+  color: #000;
+  border-color: #1e87f0;
+  font-weight: bold; }
 
 .tab li a {
   text-decoration: none;

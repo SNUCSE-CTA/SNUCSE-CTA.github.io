@@ -23,12 +23,14 @@ navigation: # Navigation links
   - {name: 'Members', link: '/members'}
   - {name: 'Publication', link: '/publications'}
   - {name: 'Research', link: '/research'}
+  - {name: 'News', link: '/news'}
 
 tagline: >
   Seoul National University, Dept.of Computer Science and Engineering
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
+news_limit: 3
 # email: your-email@domain.com # email for form submission
 
 # twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer

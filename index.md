@@ -76,7 +76,7 @@ table td { width : 50%;​}
 
 
 <div class="news">
-  <a href="/news/"><h2>News</h2></a>
+  <a href="/news"><h2>Recent News</h2></a>
   {% if site.news  %}
     <div class="table-responsive">
       <table class="table table-sm table-borderless">

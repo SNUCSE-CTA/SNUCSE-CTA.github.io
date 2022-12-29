@@ -11,3 +11,18 @@ NP-hard 그래프 문제들을 대규모 그래프에서 풀 수 있는 세계 �
 - 대용량의 그래프 데이터에 대해서 subgraph isomorphism 문제를 푸는 세계 최고 성능의 알고리즘을 개발함 (Efficient subgraph matching: Harmonizing dynamic programming, adaptive matching order, and failing set together, SIGMOD 2019)
 - 100,000개의 화합물 데이터 등 다수의 그래프 데이터에 대해 supergraph search 문제를 푸는 세계 최고 성능의 알고리즘을 개발함 (IDAR: Fast supergraph search using DAG integration, VLDB 2020)
 </div>
+
+
+#### 주요 연구성과
+2 papers in SIGMOD, 2 papers in VLDB, 2 papers in ICDE (2019-2022)
+- Subgraph Isomorphism, Subgraph Matching 
+  - [SIGMOD 2019] Efficient Subgraph Matching: Harmonizing dynamic programming, adaptive matching order, and failing set together
+  - [SIGMOD 2021] Versatile Equivalences: Speeding up Subgraph Query Processing and Subgraph Matching.
+- Supergraph Search
+  - [VLDB 2020] IDAR: Fast supergraph search using DAG integration
+- Continuous Subgraph Matching
+  - [VLDB 2021] Symmetric Continuous Subgraph Matching with Bidirectional Dynamic Programming
+- Graph Isomorphism
+  - [ICDE 2021] Scalable graph isomorphism: Combining pairwise color refinement and backtracking via compressed candidate space
+- Graph Isomorphism Query Processing
+  - [ICDE 2022] Efficient Graph Isomorphism Query Processing using Degree Sequences and Color-Label Distributions
