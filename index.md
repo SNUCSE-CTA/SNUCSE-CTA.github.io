@@ -88,7 +88,7 @@ table td { width : 50%;​}
             {% if item.inline %}
               {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
             {% else %}
-              <a class="news-title" href="{{ item.permalink | relative_url }}">{{ item.title }}</a><br/>
+              <a class="news-title" href="{{ item.permalink | relative_url }}">{{ item.title | remove: '<p>' | remove: '</p>' | replace: '<br/>', " " }}</a><br/>
               <div class="summary">
               {{ item.content | remove: '<p>' | remove: '</p>' | emojify | truncatewords:50 }}
               </div>

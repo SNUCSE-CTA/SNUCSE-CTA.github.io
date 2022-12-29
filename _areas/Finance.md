@@ -2,7 +2,7 @@
 layout: page
 title: Financial Engineering
 permalink : /research-finance
-img: suff.png
+img: finance.png
 importance : 5
 ---
 
