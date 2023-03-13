@@ -10,10 +10,6 @@ secondtitle: Computer Theory and Applications Lab
 ---
 
 
-The website is under construction
-{: style="font-size: 200%; text-align: center; font-weight: 600; color: #FF0000;"}
-
-
 이론이 실제를 만나는 곳을 추구한다  
 We pursue where theory meets practice  
 {: style="font-size: 130%; text-align: center; font-weight: 600;"}
