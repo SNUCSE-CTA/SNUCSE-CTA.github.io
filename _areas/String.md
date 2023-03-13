@@ -11,3 +11,12 @@ importance : 2
 - Linear-time longest-common-prefix computation in suffix arrays and its applications, Annual Symposium on Combinatorial Pattern Matching, 2001, Google 인용지수 561  
 - 1000개 이상의 Human DNA를 효율적으로 저장하고 빠른 검색을 지원하는 자료구조를 제시함 (FM-index of alignment with gaps, Theoretical Computer Science 2018)  
 </div>
+
+
+
+#### 최근 주요 연구성과
+- [Theor. Comput. Sci. 2021] Fast algorithms for single and multiple pattern Cartesian tree matching
+- [CPM 2021] A Linear Time Algorithm for Constructing Hierarchical Overlap Graphs
+- [Theor. Comput. Sci. 2020] Finding patterns and periods in Cartesian tree matching
+- [CPM 2019] Cartesian Tree Matching and Indexing
+- [Theor. Comput. Sci. 2018] FM-index of alignment with gaps

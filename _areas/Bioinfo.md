@@ -13,3 +13,9 @@ importance: 3
 De novo 시퀀스 어셈블리 (De novo sequence assembly)는 레퍼런스 시퀀스 (reference sequence) 없이 주어진 DNA 시퀀스 조각들로부터 하나의 DNA 시퀀스를 재조립하는 작업이다. De novo 시퀀스 어셈블리 작업은 Overlap, Layout, Consensus 단계로 진행되는데 overlap 단계가 가장 많은 시간을 차지한다. 컴퓨터 이론 분야에서는 이 overlap 단계를 All-Pairs Suffix-Prefix 문제로 정의하고 많은 연구가 진행되어왔다.
 - All-pairs suffix-prefix 문제를 푸는 세계 최고 성능의 알고리즘을 개발함 (Algorithm engineering for all-pairs suffix-prefix matching, International Symposium on Experimental Algorithms, 2017)
 </div>
+
+
+
+#### 최근 주요 연구성과
+- [Theor. Comput. Sci. 2020] Fast string matching for DNA sequences
+- [BIBM 2020] Homomorphic Computation of Local Alignment

@@ -13,11 +13,12 @@ NP-hard 그래프 문제들을 대규모 그래프에서 풀 수 있는 세계 �
 </div>
 
 
-#### 주요 연구성과
-2 papers in SIGMOD, 2 papers in VLDB, 2 papers in ICDE (2019-2022)
+#### 최근 주요 연구성과
+2 papers in SIGMOD, 2 papers in VLDB, 2 papers in ICDE, 1 paper in VLDB Journal
 - Subgraph Isomorphism, Subgraph Matching 
+  - [VLDB Journal 2023] Fast subgraph query processing and subgraph matching via static and dynamic equivalences
+  - [SIGMOD 2021] Versatile Equivalences: Speeding up Subgraph Query Processing and Subgraph Matching
   - [SIGMOD 2019] Efficient Subgraph Matching: Harmonizing dynamic programming, adaptive matching order, and failing set together
-  - [SIGMOD 2021] Versatile Equivalences: Speeding up Subgraph Query Processing and Subgraph Matching.
 - Supergraph Search
   - [VLDB 2020] IDAR: Fast supergraph search using DAG integration
 - Continuous Subgraph Matching
