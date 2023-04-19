@@ -9,10 +9,24 @@ title: 컴퓨터이론 및 응용 연구실
 secondtitle: Computer Theory and Applications Lab
 ---
 
+<div style="background: #fff6ff; padding: 3px; border: 3px solid lightgray; margin: 2px; width:70%; text-align: center; margin-left: auto; margin-right:auto;" markdown=1>
+&nbsp;목&nbsp;&nbsp;&nbsp;&nbsp;표&nbsp;
+{: style="font-size: 170%; text-align: center; font-weight: 600; text-underline-offset:6px; text-decoration:underline;"}
 
 이론이 실제를 만나는 곳을 추구한다  
 We pursue where theory meets practice  
 {: style="font-size: 130%; text-align: center; font-weight: 600;"}
+
+
+<div style="text-align:center">
+<table cellspacing="0" cellpadding="0" class='center'>
+<td>세계 최고의 연구</td>
+<td>현실에 응용되는 연구</td>
+</table>
+</div>
+</div>
+
+<br/>
 
 <style>
 table, table tr, table td {
@@ -26,17 +40,10 @@ table, table tr, table td {
 table td { width : 50%;​}
 </style>
 
-<div style="text-align:center">
-<table cellspacing="0" cellpadding="0" class='center'>
-
-<td>세계 최고의 연구</td>
-<td>현실에 응용되는 연구</td>
-</table>
-</div>
 
 컴퓨터이론은 컴퓨터공학의 기초학문으로서 효율적인 알고리즘 개발, NP-complete 개념, 현대 암호학 이론 등으로 컴퓨터공학 발전에 근본적인 기여를 하여 왔다. Turing Award를 받은 다수의 컴퓨터이론 학자들이 이러한 사실을 잘 보여주고 있다. 
 
-본 연구실은 컴퓨터이론 및 응용에 대해 연구하는 곳으로 구체적으로 스트링 알고리즘, 그래프 알고리즘, 암호학, bioinformatics, 금융공학 등에 대해 연구하고 있다.
+본 연구실은 컴퓨터이론 및 응용에 대해 연구하는 곳으로 구체적으로 그래프 알고리즘, 스트링 알고리즘, 암호학, bioinformatics, 금융공학 등에 대해 연구하고 있다.
 
 빅데이터는 대부분 스트링 데이터(text, bio-sequence 등)이거나 그래프 데이터(social network, bio-network, web graph 등)로 존재한다. 최근에는 스트링 및 그래프 형태의 빅데이터를 빠르게 분석하는 알고리즘에 대해 활발하게 연구하고 있다.
 
