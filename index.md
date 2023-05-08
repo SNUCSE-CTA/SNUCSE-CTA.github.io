@@ -9,6 +9,21 @@ title: 컴퓨터이론 및 응용 연구실
 secondtitle: Computer Theory and Applications Lab
 ---
 
+<style>
+  
+@media handheld {
+  .goal {
+    display: none;
+  }
+}
+@media (max-width:960px) { 
+  .goal {
+    display: none;
+  }
+}
+
+</style>
+<div class="goal">
 <div style="background: #fff6ff; padding: 3px; border: 3px solid lightgray; margin: 2px; width:70%; text-align: center; margin-left: auto; margin-right:auto;" markdown=1>
 &nbsp;목&nbsp;&nbsp;&nbsp;&nbsp;표&nbsp;
 {: style="font-size: 170%; text-align: center; font-weight: 600; text-underline-offset:6px; text-decoration:underline;"}
@@ -37,8 +52,10 @@ table, table tr, table td {
   margin-left: auto;
   margin-right: auto;
 }
+
 table td { width : 50%;​}
 </style>
+</div>
 
 
 컴퓨터이론은 컴퓨터공학의 기초학문으로서 효율적인 알고리즘 개발, NP-complete 개념, 현대 암호학 이론 등으로 컴퓨터공학 발전에 근본적인 기여를 하여 왔다. Turing Award를 받은 다수의 컴퓨터이론 학자들이 이러한 사실을 잘 보여주고 있다. 
