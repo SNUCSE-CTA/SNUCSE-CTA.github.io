@@ -1,4 +1,4 @@
-
+git add . && git commit -m "." && git push
 SRC_BRANCH="main"
 DEPLOY_BRANCH="gh-pages"
 
