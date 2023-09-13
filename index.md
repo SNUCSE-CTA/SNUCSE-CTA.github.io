@@ -82,16 +82,17 @@ table td { width : 50%;​}
         font-weight:bold;
         border: 0px;
         padding : 0px;
-        width: 10%;
+        width: 12%;
         background-color : #ffffff;
     }
     thead {
         border: 0px;
     }
     .summary {
-      font-size: 1rem;
+      font-size: 0.97rem;
       font-weight: normal;
     }
+    
 </style>
 
 
@@ -110,7 +111,7 @@ table td { width : 50%;​}
               {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
             {% else %}
               <a class="news-title" href="{{ item.permalink | relative_url }}">{{ item.title | remove: '<p>' | remove: '</p>' | replace: '<br/>', " " }}</a><br/>
-              {{ item.content | remove: '<p>' | remove: '</p>' | emojify | truncatewords:50 | split: '</div>' | first }}
+              {{ item.content | remove: '<p>' | remove: '</p>' | truncatewords:50 | split: '</div>' | first }}
               </div>
             {% endif %}
           </td>

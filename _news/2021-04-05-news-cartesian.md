@@ -7,7 +7,7 @@ on-home: true
 permalink: /news-cartesian-2021
 ---
 
-<div class=summary>
+<div class=summary markdown=1>
 본 논문에서는 generalized matching 문제 중 하나인 Cartesian tree matching 문제를 빠르게 해결하는 알고리즘을 제시하였다.
 
 주어진 pattern과 text를 0과 1로 이루어진 binary 문자열로 바꿔 기존의 string matching을 사용하여 matching이 일어날 수 있는 위치를 찾는 binary filtration과
