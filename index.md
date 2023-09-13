@@ -97,6 +97,7 @@ table td { width : 50%;​}
 
 <div class="news">
   <a href="/news"><h2>Recent News</h2></a>
+
   {% if site.news  %}
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
@@ -109,8 +110,7 @@ table td { width : 50%;​}
               {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
             {% else %}
               <a class="news-title" href="{{ item.permalink | relative_url }}">{{ item.title | remove: '<p>' | remove: '</p>' | replace: '<br/>', " " }}</a><br/>
-              <div class="summary">
-              {{ item.content | remove: '<p>' | remove: '</p>' | emojify | truncatewords:50 }}
+              {{ item.content | remove: '<p>' | remove: '</p>' | emojify | truncatewords:50 | split: '</div>' | first }}
               </div>
             {% endif %}
           </td>
