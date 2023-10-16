@@ -89,7 +89,7 @@ table td { width : 50%;​}
         border: 0px;
     }
     .summary {
-      font-size: 0.97rem;
+      font-size: 0.95rem;
       font-weight: normal;
     }
     
