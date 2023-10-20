@@ -46,7 +46,7 @@ We pursue where theory meets practice
 <style>
 table, table tr, table td {
     border: none;
-    font-size: 105%;
+    font-size: 103%;
     font-weight: 600;
     width : 66%;
   margin-left: auto;
