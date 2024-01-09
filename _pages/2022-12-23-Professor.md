@@ -1,5 +1,5 @@
 ---
-permalink: /professor
+permalink: /~kpark
 layout: page
 title: "Professor"
 no_title: True
