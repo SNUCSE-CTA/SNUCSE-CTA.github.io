@@ -78,6 +78,9 @@ collections:
     permalink: /research-area/:title/
   news:
     output: true
+  kpark:
+    output: true
+    permalink: /kpark/index.html
 
 scholar:
   style: modern-language-association
