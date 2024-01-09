@@ -4,7 +4,7 @@ title: "박근수 교수, VLDB 2023에서 Distinguished Reviewer Award 수상"
 date: 2023-11-17
 inline: false
 on-home: true
-permalink: /news-bice
+permalink: /news-vldb-reviewer-award
 ---
 
 <div class='summary'>
