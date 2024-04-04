@@ -1,0 +1,14 @@
+
+* 연구실 웹사이트 관리
+cd SNUCSE-CTA.github.io
+
+미리보기
+bundle exec jekyll serve
+
+
+웹사이트 업데이트 방법 
+git add . 
+git commit -m "commit-message"
+git push
+./script/deploy 
+를 ubuntu terminal에서 하기
