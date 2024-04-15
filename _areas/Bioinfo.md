@@ -19,3 +19,4 @@ De novo 시퀀스 어셈블리 (De novo sequence assembly)는 레퍼런스 시�
 #### 최근 주요 연구성과
 - [Theor. Comput. Sci. 2020] Fast string matching for DNA sequences
 - [BIBM 2020] Homomorphic Computation of Local Alignment
+- [J. Compute Biol 2024] Finding Highly Similar Regions of Genomic Sequences Through Homomorphic Encryption
