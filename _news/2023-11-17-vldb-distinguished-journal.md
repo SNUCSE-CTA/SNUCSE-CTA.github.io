@@ -8,7 +8,7 @@ permalink: /news-vldb-reviewer-award
 ---
 
 <div class='summary'>
-<img src='assets/img/Distinguished-Reviewer-Award.png' alt='Distinguished-Reviewer-Award' style='width:640px;position:relative;left:0px;top:0px;overflow:auto;display:block;height:453px;'>
+<img src='assets/img/Distinguished-Reviewer-Award.png' alt='Distinguished-Reviewer-Award' style='width:640px;position:relative;margin:auto;top:0px;overflow:auto;display:block;height:453px;'>
 박근수 교수는 Proceedings of the VLDB Endowment의 Review Board member로서 2022년 4월부터 2023년 3월까지 봉사하였는데, 시간복잡도에 대한 깊이있는 이해에 기반한 코멘트와 건설적인 리뷰를 한 공로를 인정받아 VLDB 2023 학술대회에서 Distinguished Reviewer Award를 수상하였다.
 </div>
 
