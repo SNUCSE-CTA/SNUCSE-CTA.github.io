@@ -43,7 +43,18 @@ table, table tr, table td {
 - 1995.7 - 1995.8 : Curtin University, School of Computing, Visiting Research Fellow
 - 2005.1 - 2005.2 : University of Marne-la-Vallee, Institute Gaspard-Monge, Visiting Professor
 
-### Research Interest
-- Design and Analysis of Algorithms
-- Cryptography
-- Bioinformatics
+### Recent Professional Activities
+- PVLDB vol.19 (VLDB 2026), Associate Editor
+- IEEE ICDE 2025, Area Chair
+- IEEE ICDE 2024 Industrial and Application Track, Review Board member
+- SIAM Symposium on Algorithm Engineering and Experiments 2024, Program
+Committee member
+- PVLDB vol.16 (VLDB 2023), Review Board member
+- VLDB Journal, Review Board member
+- Information Processing Letters, Editor
+- Symposium on Combinatorial Pattern Matching 2022, Program Committee
+member
+- International Symposium on String Processing and Information Retrieval
+2021, Program Committee member
+- International Symposium on Algorithms and Computation, Advisory
+Committee member
