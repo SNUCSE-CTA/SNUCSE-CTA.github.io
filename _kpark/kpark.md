@@ -45,6 +45,7 @@ table, table tr, table td {
 
 ### Recent Professional Activities
 - PVLDB vol.19 (VLDB 2026), Associate Editor
+- IEEE ICDE 2026, Area Chair
 - IEEE ICDE 2025, Area Chair
 - IEEE ICDE 2024 Industrial and Application Track, Review Board member
 - SIAM Symposium on Algorithm Engineering and Experiments 2024, Program
